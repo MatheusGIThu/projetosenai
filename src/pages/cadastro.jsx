@@ -1,5 +1,0 @@
-function cadastro(){
-    return{
-        
-    }
-}

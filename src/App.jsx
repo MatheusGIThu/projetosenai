@@ -1,11 +1,9 @@
-import './App.css'
+import Cadastropage from "./pages/cadastro/Cadastropage";
 
 function App() {
   return (
-    <>
-      <h1>nada</h1>
-    </>
-  )
+    <Cadastropage />
+  );
 }
 
-export default App
+export default App;
