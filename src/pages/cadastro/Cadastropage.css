@@ -1,0 +1,13 @@
+.central {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh;         
+    background-color: #182b34;
+    flex-direction: column; 
+  }
+  
+  h2{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+  }
